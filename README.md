@@ -1,2 +1,2 @@
-# tli
-from tli import pip
+# tly
+from tly import pip
